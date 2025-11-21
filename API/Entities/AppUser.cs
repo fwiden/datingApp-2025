@@ -6,4 +6,6 @@ public class AppUser
 	public required string Displayname { get; set; }
 	public required string Email { get; set; }
 
+	//testin
+
 }
